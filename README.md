@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning on Web Devt
-- 📫 How to reach me: capelle-expertise.com
+- 🌱 I’m currently learning Web Development
+- 📫 How to reach me: www.capelle-expertise.com
